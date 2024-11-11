@@ -1,2 +1,3 @@
 patch:
-  "menu/page_size": 8
+  "menu/page_size": 8 # 单行更多候选
+  "switches/@0/reset": 1 # 默认英文
