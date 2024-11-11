@@ -1,6 +1,3 @@
-# macOS日志文件
-.DS_Store
-
 # 用户配置文件
 user.yaml
 installation.yaml
@@ -9,8 +6,8 @@ installation.yaml
 build
 *.userdb
 
-# 自定义文件
-*.custom.yaml
-
 # VSCode 项目文件
 *.code-workspace
+
+# 自动生成的同步文件夹
+sync/**
